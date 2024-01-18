@@ -33,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,15 +43,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "KBR",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-06-13",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Machine Learning Team Intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Work on projects involving state of the art machine learning techniques",
       ]
     },
     {
