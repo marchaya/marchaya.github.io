@@ -12,7 +12,6 @@ labels:
 
 <img width="300px" class="float-start pe-3" src="../img/ICS314/hopesanddreams.png">
 
-## My Interests
 My interests with ICS started with my curiosity for what the field explores. I was curious to learn ways in which coding can be used to assist and advance other fields. The vastness of applications for software engineering overwhelmed me at first and I found it difficult to choose a direction to focus on but my Akamai Internship helped me decide the path I want to take. My internship was focused on the field of Machine Learning and learning the various tools used for my project strengthened my ambition to focus more on this topic. 
 
 ## ICS 314
