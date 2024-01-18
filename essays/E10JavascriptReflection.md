@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E10: Reflect on Javascript 1"
+title: "Reflecting on Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/HELLOIMNEWBIE.jpg">
+# <img width="200px" class="rounded float-start pe-4" src="../img/ICS314/HELLOIMNEWBIE.jpg">
 
 I am in fact a newbie to Javascript and my knowledge of it is still on the come up. I find that in my short experience, Javascript has been a smooth transition. Syntax-wise, it doesn't feel too different compared to C. I think that I need to spend more time going back to the Free Code Camp tutorials since I was only able to rush through the exercises. So far, I think that it is a good programming language from a software engineering for its ease of use and understanding.
 
