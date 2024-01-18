@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "MatLab" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python",  "MatLab", "PyTorch" ]
     },
     {
       "name": "Toolsets/OS",
