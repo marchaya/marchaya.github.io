@@ -54,18 +54,28 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Kapiolani Community College",
+      "position": "ICS Peer Mentor",
+      "website": "",
+      "startDate": "2022-08-26",
+      "endDate": "2022-12-20",
+      "summary": "Peer mentor for ICS 111, 211, 141, and 241",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist peers with topics and assignments covered in class"
+      ]
+    },
+    {
+      "company": "Kapiolani Community College",
+      "position": "Notetaker",
+      "website": "",
+      "startDate": "2022-08-26",
+      "endDate": "2022-12-20",
+      "summary": "Notetaker for Math 241",
+      "highlights": [
       ]
     }
   ],
+
   "volunteer": [
     {
       "organization": "Poi Dogs and Popoki",
@@ -78,20 +88,8 @@
         "Helping cats find their forever home",
         "Cat Janitor"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
+    
   ],
   "awards": [
     {
