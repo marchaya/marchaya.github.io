@@ -15,7 +15,7 @@ summary: "I worked with my mentor to develop an improved method for satellite de
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ICS314/mswagimg.png.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ICS314/mswagimg.png" class="img-thumbnail" >
 
 </div>
 
