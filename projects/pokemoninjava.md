@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICS314/pokeball.png
+image: img/ICS314/realpokeball.png
 title: "Pokemon in Java"
 date: 2021
 published: true
