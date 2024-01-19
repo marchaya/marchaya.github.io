@@ -13,7 +13,7 @@ labels:
 summary: "I assisted my mentor on a project implementing Reinforcement Learning to cislunar orbital transfers."
 ---
 
-<img width="200px" class="float-start pe-4" src="../img/ICS314/RLGuidance.png">
+<img width="300px" class="float-start pe-4" src="../img/ICS314/RLGuidance.png">
 
 Our project is based on a paper by Lorenzo Federici et al. (link below). This paper introduces the concept of using a Proximal Policy Optimization (PPO) reinforcement learning model to learn the optimal orbital transfer trajectory between the Lyapunov 1 and 2 orbits. Drawing on this paper, my mentor develops the majority of the framework for this project.
 
