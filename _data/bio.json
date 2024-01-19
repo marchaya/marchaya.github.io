@@ -45,11 +45,24 @@
       "company": "KBR",
       "position": "Intern",
       "website": "",
-      "startDate": "2022-06-13",
+      "startDate": "2022-10-01",
       "endDate": "Present",
       "summary": "Machine Learning Team Intern",
       "highlights": [
         "Work on projects involving state of the art machine learning techniques",
+      ]
+    },
+    {
+      "company": "Akamai",
+      "position": "KBR Intern",
+      "website": "https://www.akamaihawaii.org/",
+      "startDate": "2022-06-13",
+      "endDate": "2022-08-03",
+      "summary": "Akamai Internship",
+      "highlights": [
+        "Worked as a KBR intern through the Akamai Program",
+        "Project: MultiSWAG Uncertainty Estimation for Satellite Detection",
+        "Project link: https://www.akamaihawaii.org/marc-hayashi-akamai-2022/"
       ]
     },
     {
@@ -76,19 +89,6 @@
   ],
 
   "volunteer": [
-    {
-      "organization": "Akamai",
-      "website": "https://www.akamaihawaii.org/",
-      "position": "KBR Intern",
-      "startDate": "2022-06-13",
-      "endDate": "2022-08-03",
-      "summary": "Akamai Internship",
-      "highlights": [
-        "Worked as a KBR intern through the Akamai Program",
-        "Project: MultiSWAG Uncertainty Estimation for Satellite Detection",
-        "Project link: https://www.akamaihawaii.org/marc-hayashi-akamai-2022/"
-      ]
-    },
     {
       "organization": "Poi Dogs and Popoki",
       "website": "https://poidogsandpopoki.org/",
