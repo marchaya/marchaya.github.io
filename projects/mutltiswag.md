@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ICS314/multiswagCover.png
 title: "MultiSWAG Uncertainty Estimation for Satellite Detection"
-date: 2015
+date: 2022
 published: true
 labels:
   - Machine Learning
@@ -15,7 +15,7 @@ summary: "I worked with my mentor to develop an improved method for satellite de
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/ICS314/mswagimg.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/ICS314/mswagimg.png" class="img-thumbnail" >
 
 </div>
 
