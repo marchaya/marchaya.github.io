@@ -78,18 +78,6 @@
   "volunteer": [
     {
       "organization": "Akamai",
-      "website": "https://poidogsandpopoki.org/",
-      "position": "Adoption Volunteer",
-      "startDate": "2021-08-01",
-      "endDate": "Present",
-      "summary": "Volunteer for cat adoptions",
-      "highlights": [
-        "Helping cats find their forever home",
-        "Cat Janitor"
-      ]
-    },
-    {
-      "organization": "Poi Dogs and Popoki",
       "website": "https://www.akamaihawaii.org/",
       "position": "KBR Intern",
       "startDate": "2022-06-13",
@@ -99,6 +87,18 @@
         "Worked as a KBR intern through the Akamai Program",
         "Project: MultiSWAG Uncertainty Estimation for Satellite Detection",
         "Project link: https://www.akamaihawaii.org/marc-hayashi-akamai-2022/"
+      ]
+    },
+    {
+      "organization": "Poi Dogs and Popoki",
+      "website": "https://poidogsandpopoki.org/",
+      "position": "Adoption Volunteer",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "Volunteer for cat adoptions",
+      "highlights": [
+        "Helping cats find their forever home",
+        "Cat Janitor"
       ]
     }
     
