@@ -27,7 +27,8 @@ Unfortunately, we were unable to complete the MultiSWAG model but the method sti
 Here is a link to the paper that was written on MultiSWAG and Bayesian Deep Learning: [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791).
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ICS314/GregandMe.PNG" class="img-thumbnail" >
-  <img width="200px" src="../img/ICS314/meAkamai.png" class="img-thumbnail" >
+  
+  <img width="400px" src="../img/ICS314/GregandMe.PNG" class="img-thumbnail" >
+  <img width="400px" src="../img/ICS314/AKAMAI.png" class="img-thumbnail" >
 
 </div>
