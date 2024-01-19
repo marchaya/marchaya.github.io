@@ -16,8 +16,8 @@ summary: "I worked with my mentor Greg Martin to develop an improved method for 
 
 <div class="text-center p-4">
   <img width="1400px" src="../img/ICS314/mswagimg.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ICS314/GregandMe.PNG" class="img-thumbnail" >
-  <img width="200px" src="../img/ICS314/GregandMe.PNG" class="img-thumbnail" >
+  <img width="200px" src="../img/ICS314/GregandMe.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ICS314/meAkamai.png" class="img-thumbnail" >
 
 </div>
 
