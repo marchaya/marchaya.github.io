@@ -12,7 +12,7 @@ summary: "A GUI for Pokemon in Java created for ICS 211."
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/ICS314/pokegui.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ICS314/pokegui.png" class="img-thumbnail" >
 
 </div>
 
