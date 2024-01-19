@@ -16,8 +16,6 @@ summary: "I worked with my mentor Greg Martin to develop an improved method for 
 
 <div class="text-center p-4">
   <img width="1400px" src="../img/ICS314/mswagimg.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ICS314/GregandMe.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ICS314/meAkamai.png" class="img-thumbnail" >
 
 </div>
 
@@ -27,3 +25,9 @@ I was tasked with modifying the satellite dataset, which is compatible with tens
 Unfortunately, we were unable to complete the MultiSWAG model but the method still shows promise for potential future work. If given the opportunity, I would like to continue the research and work on the applications of MultiSWAG to our satellite detection model. 
 
 Here is a link to the paper that was written on MultiSWAG and Bayesian Deep Learning: [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791).
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/ICS314/GregandMe.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ICS314/meAkamai.png" class="img-thumbnail" >
+
+</div>
