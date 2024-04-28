@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="float-start pe-3" src="../img/ICS314/smartQ.png">
+<img width="300px" class="float-start pe-3" src="../img/ICS314/designP1.webp">
 
 ## Design Patterns
 Design patterns are reusable solutions to common problems encountered in software design and development. They offer structured approaches to solving these problems by encapsulating best practices and proven solutions within specific contexts. Serving as templates or blueprints, design patterns guide developers in crafting software architectures that are flexible, maintainable, and scalable. By abstracting common design challenges into reusable components, these patterns enhance communication among developers, promote code readability, and accelerate the development process through well-established solutions to recurring issues.
