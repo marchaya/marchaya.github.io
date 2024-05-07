@@ -11,8 +11,6 @@ labels:
   - AI
 ---
 
-# <img width="300px" class="float-start pe-3" src="../img/ICS314/designP1.webp">
-
 ### I. Introduction
 
 
