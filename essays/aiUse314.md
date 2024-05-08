@@ -18,57 +18,58 @@ The use of AI in education has often been viewed negatively due to its potential
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs
+
      I opted not to use AI, choosing instead to attempt the WODs and watch the screencasts for learning.  
   
-  2. In-class Practice WODs
+  3. In-class Practice WODs
 
      I did not use AI for these WODs to enhance my learning experience through direct practice.
      
-  3. In-class WODs
+  4. In-class WODs
 
      Initially, I avoided using AI to challenge myself. However, as the semester progressed, non-use of AI often led to a 'DNF' (Did Not Finish) status, especially in UI design WODs where it was challenging to describe to ChatGPT my exact requirements.
 
-  4. Essays
+  5. Essays
 
      I refrained from using AI to compose essays, equating it to plagiarism. However, I occasionally sought help from ChatGPT for improving phrases or sentences. 
   
-  5. Final project
+  6. Final project
 
       While I have tried using AI in our final project, I found it challenging due to the complex design patterns in Bowfolios, our reference project. In other areas like learning concepts or tutorials, I did not use AI, relying instead on the ample class materials.
 
-  6. Learning a concept / tutorial
+  7. Learning a concept / tutorial
 
        I chose not to use AI for learning specific concepts or tutorials, relying instead on the extensive materials provided in the course.
 
-  7. Answering a question in class or in Discord
+  8. Answering a question in class or in Discord
 
        I used AI only when we were encouraged to see how it would respond.
 
-  8. Asking or answering a smart-question
+  9. Asking or answering a smart-question
 
       I have never used AI for smart-questions as I thought that it would be pointless to have AI ask your own questions. I also did not answer using AI as I never had the opportunity to answer someones question.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  10. Coding example e.g. “give an example of using Underscore .pluck”
 
       I often asked AI for coding examples and advice on approaching problems. 
 
-  10. Explaining code
+  11. Explaining code
 
       I never used AI to explain code because I didn’t see it as necessary. I would instead see documentation or the course materials to understand the code.
 
-  11. Writing code
+  12. Writing code
 
       Sometimes I used AI to help start coding in WODs, but this wasn’t always effective for more complex tasks. 
 
-  12. Documenting code
+  13. Documenting code
 
       I didn’t use AI for documenting code, as it didn’t seem needed.
 
-  13. Quality assurance
+  14. Quality assurance
 
       I never used AI for quality assurance because it never occured to me to use it for this purpose.
 
-  14. Other uses in ICS 314 not listed above
+  15. Other uses in ICS 314 not listed above
 
       The only other time I used AI was to proofread emails, which helped improve my communication.
 
