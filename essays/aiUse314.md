@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI Use in ICS 314"
+title: "AI as a Classroom Companion: Insights from ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-06
 published: true
