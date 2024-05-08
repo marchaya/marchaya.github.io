@@ -19,43 +19,43 @@ I have used AI in class this semester in the following areas:
 
   1. Experience WODs
 
-     I opted not to use AI, choosing instead to attempt the WODs and watch the screencasts for learning.  
+     I chose not to use AI for the experience WODs, opting to tackle the challenges directly and learn from the accompanying screencasts. This approach helped me understand the concepts more deeply by relying on my own problem-solving skills.  
   
   3. In-class Practice WODs
 
-     I did not use AI for these WODs to enhance my learning experience through direct practice.
+     For these practice WODs, I deliberately avoided using AI to maximize my hands-on learning experience. This method allowed me to face the raw challenges presented in the course, enhancing my practical skills.
      
   4. In-class WODs
 
-     Initially, I avoided using AI to challenge myself. However, as the semester progressed, non-use of AI often led to a 'DNF' (Did Not Finish) status, especially in UI design WODs where it was challenging to describe to ChatGPT my exact requirements.
+     Initially, I challenged myself by not using AI to solve in-class WODs. However, as the semester advanced, I encountered difficulties, especially with UI design tasks where precise requirements were hard to communicate to AI, often leading to incomplete tasks. I found that the UI Design (Frameworks) and (React) WODs were especially difficult even with using AI.
 
   5. Essays
 
-     I refrained from using AI to compose essays, equating it to plagiarism. However, I occasionally sought help from ChatGPT for improving phrases or sentences. 
+     I avoided using AI to draft essays to prevent plagiarism and ensure academic integrity. Nonetheless, I sought AI assistance for refining phrases and improving sentence structures, which helped enhance the clarity and flow of my writing.
   
   6. Final project
 
-      While I have tried using AI in our final project, I found it challenging due to the complex design patterns in Bowfolios, our reference project. In other areas like learning concepts or tutorials, I did not use AI, relying instead on the ample class materials.
+      While I have tried using AI in our final project, I found it challenging due to the complex design patterns in Bowfolios, our reference project. The only situations that it has helped me has been with debugging. For example, I was missing a bracket in my settings.json but could not figure out where the error was originating from. When I entered the file to check for errors, it immediately pointed the missing bracket out and fixed my issue.
 
   7. Learning a concept / tutorial
 
-       I chose not to use AI for learning specific concepts or tutorials, relying instead on the extensive materials provided in the course.
+       I chose not to employ AI for learning specific concepts or tutorials, instead utilizing the extensive educational resources provided in the course. This ensured a solid foundational understanding through traditional study methods.
 
   8. Answering a question in class or in Discord
 
-       I used AI only when we were encouraged to see how it would respond.
+       I used AI only when we were encouraged to see how it would respond. For example, our last day of class, we discussed an ethical dilemma in coding with Sara and Charlie. After some discussion, we were encouraged to see how ChatGPT would respond to this prompt. In response to whether or not it was ethical, ChatGPT responded that, "promoting Charlie over Sara, in the absence of a clearly justifiable and transparent rationale that aligns with ethical standards of fairness, consistency, and bias mitigation, is likely unethical."
 
   9. Asking or answering a smart-question
 
-      I have never used AI for smart-questions as I thought that it would be pointless to have AI ask your own questions. I also did not answer using AI as I never had the opportunity to answer someones question.
+      I avoided using AI for smart-questions, seeing little value in having AI generate questions that I could formulate myself. Moreover, I did not use AI to answer others' questions, preferring personal interaction and doing my own research. The asker hopefully has already tried posing the question to ChatGPT or another AI language model otherwise it would not be a "smart-question" as they did not do all they could to search for an answer before asking.
 
   10. Coding example e.g. “give an example of using Underscore .pluck”
 
-      I often asked AI for coding examples and advice on approaching problems. 
+      Another example of using AI this semester was when I had a "TypeError: Cannot read property 'userPublicationName' of undefined'. I asked ChatGPT what could be the cause of this along with the file that the error was originating from and helped me realize that my import statement was not properly defined.
 
   11. Explaining code
 
-      I never used AI to explain code because I didn’t see it as necessary. I would instead see documentation or the course materials to understand the code.
+      In most cases, I did not resort to AI for explaining code, instead using course materials or direct documentation, which often provided clearer and more context-specific explanations. But I remember using it to help me understand Underscore by asking how the functions work.
 
   12. Writing code
 
@@ -63,33 +63,33 @@ I have used AI in class this semester in the following areas:
 
   13. Documenting code
 
-      I didn’t use AI for documenting code, as it didn’t seem needed.
+      I did not use AI for documenting code, as I found it unnecessary for understanding the logic and structure of my work.
 
   14. Quality assurance
 
-      I never used AI for quality assurance because it never occured to me to use it for this purpose.
+      It never occurred to me to use AI for quality assurance tasks, as I did not perceive AI as reliable enough for thorough testing and debugging.
 
   15. Other uses in ICS 314 not listed above
 
-      The only other time I used AI was to proofread emails, which helped improve my communication.
+      The only other scenario where I used AI was in proofreading emails, which helped polish my professional communication by suggesting clearer and more effective wording.
 
 ### III. Impact on Learning and Understanding:
-Using AI in this class has often times given me new perspectives to approach certain problems. It also has made some tasks like debugging a lot faster as well. I feel that AI has enhanced my understanding of software engineering concepts by guiding me to solutions or potential solutions. I also feel that it will continue to improve which will make use of AI a more powerful tool.
+Integrating AI into this class has profoundly altered my approach to problem-solving, particularly in debugging where AI tools quickly pinpointed issues like a missing bracket in settings.json. This not only saved time but also enhanced my understanding of common pitfalls in coding. Moreover, AI’s ability to provide instant feedback on code helped me better understand complex libraries such as Underscore.js, facilitating a quicker grasp of functional programming concepts. AI's role in offering solutions and explanations has made the learning process more interactive and responsive, which is critical in a fast-paced educational environment. As AI continues to evolve, its potential to provide even deeper insights and more tailored learning experiences is immense, promising to significantly enhance educational outcomes in software engineering and beyond.
 
 ### IV. Practical Applications:
-I think that using it as a tool for ICS classes could be very valuable. This could maybe be encouraged by making certain lessons and experiences mandatory to do without AI and encourage AI use for other ones.
+The practical applications of AI in our ICS classes have been varied and enlightening. AI has proven particularly useful in areas requiring rapid feedback, such as debugging and iterative design processes in software development. By integrating AI selectively into certain segments of the curriculum, students could benefit from its strengths without becoming overly reliant on it. For example, using AI to troubleshoot code in real-time could free up more time for students to focus on creative aspects of software development. Moreover, encouraging the use of AI in complex project settings, where quick error resolution is beneficial, could improve project outcomes and student satisfaction. Overall, incorporating AI thoughtfully into the curriculum can enhance both the efficiency and depth of learning.
 
 ### V. Challenges and Opportunities:
-Throughout this course, the greatest challenge has been using AI for my project, working with large repositories such as Clubs At Manoa. Over-reliance on AI might also result in receiving answers that are slightly off from what is needed.
+One of the main challenges faced this semester was integrating AI into complex projects like our work with Bowfolios. Although AI was helpful in debugging, it struggled with the intricate design patterns and architectural complexities of large-scale projects. This highlighted the limitations of AI, particularly in contexts requiring nuanced understanding and creative problem-solving. However, these challenges also present opportunities for improving AI tools and teaching methods. For instance, refining AI to better handle complex architectures could significantly enhance its utility in educational settings. Furthermore, incorporating AI as a complementary tool rather than a primary solution can prepare students to use technology effectively in their future careers.
 
 ### VI. Comparative Analysis:
-Traditional teaching methods in software engineering focus on structured, repetitive learning, which is effective for knowledge retention but may lack engagement. In contrast, AI-enhanced approaches like using ChatGPT offer interactive and personalized learning experiences that boost engagement and adapt to individual learning styles. However, to develop practical skills effectively, a combination of both traditional methods and AI tools is essential, ensuring thorough understanding and application of concepts.
+Traditional teaching methods in software engineering are essential for establishing a strong foundation in basic principles and practices. However, they can sometimes lack the interactive and engaging elements that stimulate deep learning. AI-enhanced approaches like using ChatGPT have introduced a dynamic aspect to the learning process, offering personalized and responsive educational experiences. These methods not only increase student engagement but also adapt to individual learning styles, making education more inclusive and effective. A balanced educational strategy that combines the reliability of traditional methods with the innovative potential of AI can provide a comprehensive learning experience that prepares students for the challenges of the modern technological landscape.
 
 ### VII. Future Considerations:
-AI could be a valuable tool not only in ICS but in other subjects as well. It should be used not to plagiarize but to explore ideas or help structure and proofread pre-existing work.
+As AI continues to advance, its integration into various educational fields holds tremendous potential. Beyond ICS, AI can be a transformative tool in disciplines ranging from mathematics to history, aiding in everything from complex problem-solving to data analysis and historical research. Educators should consider AI not just as a technological aid but as a fundamental component of the learning environment that can enhance critical thinking and creativity. However, it is crucial to ensure that AI is used ethically and responsibly, enhancing educational experiences without replacing the essential human elements of teaching and learning.
 
 
 ### VIII. Conclusion:
-Artificial Intelligence, particularly tools like ChatGPT, has proven to be an invaluable asset in the educational landscape of software engineering. Throughout ICS 314, AI has not only facilitated a deeper understanding of complex concepts but also enhanced the efficiency of learning and problem-solving processes. By integrating AI, we can transform traditional learning environments into more engaging, adaptable, and responsive spaces that cater to individual learning styles and needs. However, it is crucial to strike a balance between AI assistance and traditional learning methods to ensure that students gain a comprehensive understanding of the material without over-relying on technology. Looking forward, the potential of AI in education is immense, promising even greater enhancements in how we learn, understand, and apply knowledge. As we continue to explore and refine these tools, we must remain mindful of ethical considerations, particularly regarding academic integrity and the genuine understanding of coursework. In summary, while AI can significantly augment our educational tools, its integration should be thoughtfully managed to maximize benefits while minimizing potential drawbacks.
+AI tools like ChatGPT have proven invaluable in enhancing the learning process within our ICS 314 course, offering both practical assistance and profound insights into complex concepts. The integration of AI has not only made learning more efficient but also more adaptable, catering to diverse educational needs and styles. As we look to the future, the potential for AI in education appears boundless, with opportunities to further enhance engagement and understanding across a wide array of disciplines. However, as we embrace these advancements, we must also remain vigilant about maintaining academic integrity and ensuring that AI serves to support, not supplant, the educational process. The thoughtful integration of AI can undoubtedly revolutionize educational methodologies, making learning more personalized, efficient, and impactful.
 
 ChatGPT was used to enhance the language of this essay.
