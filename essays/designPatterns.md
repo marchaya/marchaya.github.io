@@ -28,7 +28,7 @@ in a dedicated module. This approach ensures that the collection is created only
 
 This practical application of the Singleton pattern within the Clubs At Manoa project highlights how design patterns can significantly enhance software development practices by providing a structured approach to solving common problems. By ensuring that there is a single, consistent instance of each collection, we maintain a clean and efficient codebase, reduce the risk of data anomalies, and improve the overall reliability of the application.
 
-## Conclusion
+## Lessons Learned
 The use of design patterns in the Clubs At Manoa project exemplifies how theoretical concepts can be effectively applied in real-world development projects to solve common problems, enhance scalability, and improve maintainability. Through the Singleton pattern, we achieved a robust and error-resistant system that handles club data consistently and reliably. This approach not only streamlined our development process but also ensured that the application could grow and evolve without sacrificing performance or integrity. The knowledge and experience gained from implementing these design patterns will undoubtedly aid in future projects, fostering a deeper understanding and skill set in software architecture and design.
 
 
