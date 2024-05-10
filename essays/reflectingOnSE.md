@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="float-start pe-3" src="../img/ICS314/designP1.webp">
+<img width="300px" class="float-start pe-3" src="../img/ICS314/reflectingonSE.webp">
 
 ## Introduction to Software Engineering
 Software engineering extends far beyond mere code construction or web application development. Throughout my semester exploring software engineering, learning to utilize different platforms, libraries, and frameworks in web application development has not only honed my technical skills but also prepared me for future projects. However, a significant portion of my time was devoted to planning and strategizing the best approaches to tackle problems, particularly in my group project, Clubs At Manoa. Some of the most significant insights I gained were in UI design, agile project management, and configuration management.
