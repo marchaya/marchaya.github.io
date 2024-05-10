@@ -11,7 +11,7 @@ labels:
 summary: "ICS 314 final project: Web app to explore and manage UH "
 ---
 
-<img width="500px" class="float-start pe-4" src="../img/ICS314/CAM landing page.png">
+<img width="700px" class="float-start pe-4" src="../img/ICS314/CAM landing page.png">
 
 The University of Hawaii at Manoa (UH Manoa) boasts a vibrant campus life with over 200 Registered Independent Organizations (RIOs), alongside numerous active but unofficial groups. Despite this rich diversity, students faced a significant challenge in navigating the extensive array of clubs, often struggling to discover and engage with these groups. This gap highlighted a clear need for a centralized, accessible platform where students could explore and connect with clubs that match their interests and schedules.
 
