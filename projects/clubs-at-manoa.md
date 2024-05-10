@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ICS314/CAM.webp
 title: "Clubs At Manoa"
-date: 2023
+date: 2024
 published: true
 labels:
   - UH Manoa
